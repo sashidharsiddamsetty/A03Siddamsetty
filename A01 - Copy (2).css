@@ -1,0 +1,131 @@
+
+body{
+
+	margin: 0;
+	padding: 30px;
+	padding-left: 50;
+	color: white;
+
+    background-image: url("Think Twice, Code Once! by pcbots.jpg");
+	
+}
+h1{
+	color: white;
+
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color:none;
+
+}
+li{
+	float: left;
+	color: white;
+
+}
+li a{
+	display: block;
+	color: white;
+	text-align: left;
+	padding: 14px 15px;
+	text-decoration: none;
+	font-size: 150%;
+	font-style: italic;
+	
+
+
+}
+li a:hover{
+	background-color:green;
+	color:black;
+	
+
+}
+p{
+	text-align:left;
+}
+	form{
+		color: white;
+	}
+#contact{
+	text-align: left;
+	color: white;
+}
+#contactdp{
+	text-align: right;
+}
+#fo{
+	text-align: center;
+	margin-left: 30%;
+	}
+	#ft{
+	text-align: center;
+	margin-left: ;
+
+
+}
+#oo{
+	text-align: center;
+	margin-left: ;
+
+}
+
+#sas1{
+	width :20% ;
+	height:150%;
+	text-align: left;
+}
+
+#op{
+	text-align: center;
+}
+#re{
+	text-align: center;
+}
+
+#aa{
+	text-align: center;
+	color: white;
+}
+#bb{
+	text-align: center;
+
+}
+#ro
+{
+	width: 0px;
+
+}
+#qq{
+	margin-left: 10%;
+	margin-top: 10%;
+}
+#yy{
+	width:20%;
+	height:150%;
+}
+
+
+#fb{
+	 width:10%;
+	 height:20%;
+	  border:0;
+}
+#tp{
+width:4.5%;
+height:4.5%;
+border:0;
+}
+#gg{
+width:3.3%;
+height:3.5%;
+border:0;
+}
+#tw{
+	width:3.5%;
+	 height:3.5%;
+	  border:0;
+}

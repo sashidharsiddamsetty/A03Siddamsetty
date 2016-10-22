@@ -1,0 +1,20 @@
+{
+    "name": "A03",
+    "version": "0.0.1",
+    "description": "simple chat app",
+    "main": "server.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan" : "latest",
+        "body-parser" : "latest",
+        "ejs" : "latest",
+        "socket.io": "latest"
+    },
+    "author": "Denise Case",
+    "homepage": "https://bitbucket.org/professorcase/w06",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/professorcase/w06"
+    },
+     "license": "Apache-2.0"
+}

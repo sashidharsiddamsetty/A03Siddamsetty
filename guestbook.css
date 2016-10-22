@@ -1,0 +1,19 @@
+body{
+	background:orange;
+    color: black;
+    font-family: "Josefin Slab";
+}
+div.panel-body{
+	color: black;
+}
+footer{
+	color:white;
+}
+a{
+	color: yellow;
+	text-decoration: underline;
+	font-weight: 700;
+}
+a:hover{
+	color: orange;
+}
